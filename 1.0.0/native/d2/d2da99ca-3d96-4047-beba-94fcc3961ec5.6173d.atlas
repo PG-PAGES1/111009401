@@ -1,0 +1,223 @@
+
+scatter.jpg
+size: 936,936
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame/fs_scat_vfx_a_add_00
+  rotate: false
+  xy: 142, 18
+  size: 132, 133
+  orig: 160, 162
+  offset: 14, 16
+  index: -1
+frame/fs_scat_vfx_a_add_01
+  rotate: true
+  xy: 798, 802
+  size: 132, 133
+  orig: 160, 162
+  offset: 14, 16
+  index: -1
+frame/fs_scat_vfx_a_add_02
+  rotate: true
+  xy: 798, 668
+  size: 132, 133
+  orig: 160, 162
+  offset: 14, 16
+  index: -1
+frame/fs_scat_vfx_a_add_03
+  rotate: false
+  xy: 226, 272
+  size: 132, 133
+  orig: 160, 162
+  offset: 14, 16
+  index: -1
+frame/fs_scat_vfx_a_add_04
+  rotate: false
+  xy: 360, 272
+  size: 132, 133
+  orig: 160, 162
+  offset: 14, 16
+  index: -1
+frame/fs_scat_vfx_a_add_05
+  rotate: false
+  xy: 494, 272
+  size: 132, 133
+  orig: 160, 162
+  offset: 14, 16
+  index: -1
+frame/fs_scat_vfx_a_add_06
+  rotate: false
+  xy: 276, 25
+  size: 132, 133
+  orig: 160, 162
+  offset: 14, 16
+  index: -1
+frame/fs_scat_vfx_a_add_07
+  rotate: false
+  xy: 599, 137
+  size: 132, 133
+  orig: 160, 162
+  offset: 14, 16
+  index: -1
+frame/fs_scat_vfx_a_add_08
+  rotate: false
+  xy: 599, 2
+  size: 132, 133
+  orig: 160, 162
+  offset: 14, 16
+  index: -1
+frame/fs_scat_vfx_a_add_09
+  rotate: true
+  xy: 733, 198
+  size: 132, 133
+  orig: 160, 162
+  offset: 14, 16
+  index: -1
+frame/fs_scat_vfx_a_add_10
+  rotate: false
+  xy: 733, 63
+  size: 132, 133
+  orig: 160, 162
+  offset: 14, 16
+  index: -1
+other/fs_scat_vfx_b_add
+  rotate: false
+  xy: 2, 12
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+side_glow/fs_scat_vfx_c_add_00
+  rotate: false
+  xy: 2, 675
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_01
+  rotate: false
+  xy: 2, 414
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_02
+  rotate: false
+  xy: 2, 153
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_03
+  rotate: false
+  xy: 114, 675
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_04
+  rotate: false
+  xy: 114, 414
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_05
+  rotate: false
+  xy: 114, 153
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_06
+  rotate: true
+  xy: 276, 824
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_07
+  rotate: true
+  xy: 537, 824
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_08
+  rotate: true
+  xy: 276, 712
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_09
+  rotate: true
+  xy: 537, 712
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_10
+  rotate: false
+  xy: 226, 407
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_11
+  rotate: false
+  xy: 338, 407
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_12
+  rotate: true
+  xy: 226, 160
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_13
+  rotate: false
+  xy: 450, 407
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_14
+  rotate: false
+  xy: 487, 11
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_15
+  rotate: false
+  xy: 562, 407
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_16
+  rotate: true
+  xy: 674, 556
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_17
+  rotate: true
+  xy: 674, 444
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1
+side_glow/fs_scat_vfx_c_add_18
+  rotate: true
+  xy: 674, 332
+  size: 110, 259
+  orig: 128, 260
+  offset: 10, 1
+  index: -1

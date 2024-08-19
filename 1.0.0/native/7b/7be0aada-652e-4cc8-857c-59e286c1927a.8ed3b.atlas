@@ -1,0 +1,280 @@
+
+ui_gun.png
+size: 1871,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ammo01
+  rotate: false
+  xy: 292, 192
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+ammo03
+  rotate: false
+  xy: 80, 14
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+att
+  rotate: false
+  xy: 358, 80
+  size: 202, 108
+  orig: 202, 108
+  offset: 0, 0
+  index: -1
+att2
+  rotate: false
+  xy: 762, 32
+  size: 182, 70
+  orig: 182, 70
+  offset: 0, 0
+  index: -1
+att2x
+  rotate: false
+  xy: 945, 44
+  size: 182, 70
+  orig: 182, 70
+  offset: 0, 0
+  index: -1
+attb
+  rotate: false
+  xy: 2, 249
+  size: 36, 49
+  orig: 38, 50
+  offset: 1, 1
+  index: -1
+attbx
+  rotate: false
+  xy: 37, 276
+  size: 36, 49
+  orig: 38, 50
+  offset: 1, 1
+  index: -1
+attf
+  rotate: false
+  xy: 108, 345
+  size: 33, 31
+  orig: 35, 33
+  offset: 1, 0
+  index: -1
+attfx
+  rotate: false
+  xy: 141, 368
+  size: 33, 31
+  orig: 35, 33
+  offset: 1, 0
+  index: -1
+attx
+  rotate: false
+  xy: 421, 8
+  size: 202, 108
+  orig: 202, 108
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 155
+  size: 355, 243
+  orig: 355, 243
+  offset: 0, 0
+  index: -1
+body_l
+  rotate: false
+  xy: 1371, 4
+  size: 70, 100
+  orig: 72, 100
+  offset: 1, 0
+  index: -1
+bolt
+  rotate: false
+  xy: 235, 192
+  size: 39, 24
+  orig: 41, 26
+  offset: 0, 1
+  index: -1
+boltx
+  rotate: false
+  xy: 358, 16
+  size: 39, 24
+  orig: 41, 26
+  offset: 0, 1
+  index: -1
+butt
+  rotate: false
+  xy: 2, 63
+  size: 130, 91
+  orig: 130, 91
+  offset: 0, 0
+  index: -1
+butt2
+  rotate: false
+  xy: 1269, 20
+  size: 99, 66
+  orig: 99, 66
+  offset: 0, 0
+  index: -1
+circside
+  rotate: false
+  xy: 133, 146
+  size: 30, 41
+  orig: 32, 43
+  offset: 1, 1
+  index: -1
+clip
+  rotate: false
+  xy: 625, 45
+  size: 67, 143
+  orig: 67, 143
+  offset: 0, 0
+  index: -1
+clipx
+  rotate: false
+  xy: 693, 45
+  size: 67, 143
+  orig: 67, 143
+  offset: 0, 0
+  index: -1
+front
+  rotate: false
+  xy: 1129, 33
+  size: 71, 127
+  orig: 72, 129
+  offset: 0, 0
+  index: -1
+frontx
+  rotate: false
+  xy: 1202, 4
+  size: 71, 127
+  orig: 72, 129
+  offset: 0, 0
+  index: -1
+fx_glow
+  rotate: true
+  xy: 1681, 190
+  size: 192, 187
+  orig: 192, 187
+  offset: 0, 0
+  index: -1
+fx_smoke
+  rotate: false
+  xy: 164, 3
+  size: 192, 187
+  orig: 192, 187
+  offset: 0, 0
+  index: -1
+gun_spark_00
+  rotate: true
+  xy: 358, 190
+  size: 208, 187
+  orig: 208, 187
+  offset: 0, 0
+  index: -1
+gun_spark_01
+  rotate: true
+  xy: 547, 190
+  size: 208, 187
+  orig: 208, 187
+  offset: 0, 0
+  index: -1
+gun_spark_02
+  rotate: true
+  xy: 736, 190
+  size: 208, 187
+  orig: 208, 187
+  offset: 0, 0
+  index: -1
+gun_spark_03
+  rotate: true
+  xy: 925, 190
+  size: 208, 187
+  orig: 208, 187
+  offset: 0, 0
+  index: -1
+gun_spark_04
+  rotate: true
+  xy: 1114, 190
+  size: 208, 187
+  orig: 208, 187
+  offset: 0, 0
+  index: -1
+gun_spark_05
+  rotate: true
+  xy: 1303, 190
+  size: 208, 187
+  orig: 208, 187
+  offset: 0, 0
+  index: -1
+gun_spark_06
+  rotate: true
+  xy: 1492, 190
+  size: 208, 187
+  orig: 208, 187
+  offset: 0, 0
+  index: -1
+handle
+  rotate: false
+  xy: 73, 318
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+noz
+  rotate: false
+  xy: 323, 230
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+rec_low
+  rotate: false
+  xy: 2, 291
+  size: 138, 107
+  orig: 138, 107
+  offset: 0, 0
+  index: -1
+ret
+  rotate: false
+  xy: 120, 49
+  size: 42, 39
+  orig: 44, 42
+  offset: 1, 1
+  index: -1
+retx
+  rotate: false
+  xy: 587, 5
+  size: 42, 39
+  orig: 44, 42
+  offset: 1, 1
+  index: -1
+scope_b
+  rotate: false
+  xy: 358, 40
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+sight
+  rotate: false
+  xy: 2, 13
+  size: 76, 62
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+sightb
+  rotate: false
+  xy: 1442, 19
+  size: 78, 78
+  orig: 79, 94
+  offset: 0, 14
+  index: -1
+sightf
+  rotate: false
+  xy: 1522, 12
+  size: 66, 98
+  orig: 68, 99
+  offset: 0, 1
+  index: -1
+

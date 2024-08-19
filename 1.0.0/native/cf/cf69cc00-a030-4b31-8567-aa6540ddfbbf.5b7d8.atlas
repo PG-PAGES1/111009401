@@ -1,0 +1,62 @@
+
+free_end.png
+size: 1650,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin/tw_coin_a
+  rotate: true
+  xy: 2, 92
+  size: 306, 695
+  orig: 324, 702
+  offset: 18, 3
+  index: -1
+coin/tw_coin_b
+  rotate: true
+  xy: 1039, 16
+  size: 324, 587
+  orig: 324, 702
+  offset: 0, 39
+  index: -1
+other/text14
+  rotate: false
+  xy: 939, 668
+  size: 561, 878
+  orig: 572, 882
+  offset: 7, 4
+  index: -1
+other/text15
+  rotate: true
+  xy: 2, 400
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+other/tw_b
+  rotate: true
+  xy: 2, 726
+  size: 820, 935
+  orig: 820, 935
+  offset: 0, 0
+  index: -1
+other/tw_vfx_a_screen
+  rotate: false
+  xy: 699, 2
+  size: 338, 338
+  orig: 338, 338
+  offset: 0, 0
+  index: -1
+other/tw_vfx_c_screen
+  rotate: true
+  xy: 1410, 342
+  size: 324, 238
+  orig: 324, 238
+  offset: 0, 0
+  index: -1
+other/tw_vfx_d_screen
+  rotate: true
+  xy: 706, 342
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1

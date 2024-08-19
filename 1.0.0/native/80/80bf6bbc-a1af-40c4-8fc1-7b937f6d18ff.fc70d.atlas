@@ -1,0 +1,83 @@
+
+free_start.png
+size: 2000,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow/bl_fire_screen
+  rotate: false
+  xy: 772, 2
+  size: 227, 240
+  orig: 227, 240
+  offset: 0, 0
+  index: -1
+glow/bl_flare_screen
+  rotate: true
+  xy: 528, 244
+  size: 454, 484
+  orig: 454, 484
+  offset: 0, 0
+  index: -1
+glow/bl_vfx_c_screen
+  rotate: false
+  xy: 528, 2
+  size: 242, 240
+  orig: 242, 240
+  offset: 0, 0
+  index: -1
+glow/bl_vfx_d_screen
+  rotate: true
+  xy: 1718, 24
+  size: 318, 179
+  orig: 318, 179
+  offset: 0, 0
+  index: -1
+glow/fb_hover_a_add
+  rotate: true
+  xy: 434, 15
+  size: 219, 76
+  orig: 219, 76
+  offset: 0, 0
+  index: -1
+line/bl_vfx_b_add
+  rotate: true
+  xy: 1014, 374
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+other/bl_boss
+  rotate: true
+  xy: 1718, 344
+  size: 354, 273
+  orig: 358, 277
+  offset: 0, 1
+  index: -1
+other/bl_girl
+  rotate: true
+  xy: 2, 236
+  size: 462, 524
+  orig: 464, 525
+  offset: 0, 1
+  index: -1
+other/bl_plane
+  rotate: false
+  xy: 2, 19
+  size: 430, 215
+  orig: 440, 225
+  offset: 0, 10
+  index: -1
+other/bl_young
+  rotate: true
+  xy: 1899, 164
+  size: 178, 99
+  orig: 178, 99
+  offset: 0, 0
+  index: -1
+other/text16
+  rotate: true
+  xy: 1014, 48
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1

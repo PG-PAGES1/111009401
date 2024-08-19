@@ -1,0 +1,111 @@
+
+button.jpg
+size: 1666,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buttom_boom/sb_vfx_a_screen_20
+  rotate: false
+  xy: 1495, 183
+  size: 168, 166
+  orig: 270, 270
+  offset: 50, 52
+  index: -1
+buttom_boom/sb_vfx_a_screen_21
+  rotate: true
+  xy: 1303, 325
+  size: 194, 190
+  orig: 270, 270
+  offset: 39, 40
+  index: -1
+buttom_boom/sb_vfx_a_screen_22
+  rotate: true
+  xy: 1093, 307
+  size: 212, 208
+  orig: 270, 270
+  offset: 28, 30
+  index: -1
+buttom_boom/sb_vfx_a_screen_23
+  rotate: true
+  xy: 917, 45
+  size: 220, 214
+  orig: 270, 270
+  offset: 25, 28
+  index: -1
+buttom_boom/sb_vfx_a_screen_24
+  rotate: true
+  xy: 515, 7
+  size: 188, 199
+  orig: 270, 270
+  offset: 48, 32
+  index: -1
+buttom_boom/sb_vfx_a_screen_25
+  rotate: true
+  xy: 716, 7
+  size: 188, 199
+  orig: 270, 270
+  offset: 48, 33
+  index: -1
+buttom_boom/sb_vfx_a_screen_26
+  rotate: false
+  xy: 1133, 106
+  size: 188, 199
+  orig: 270, 270
+  offset: 48, 33
+  index: -1
+buttom_boom/sb_vfx_a_screen_27
+  rotate: false
+  xy: 1489, 43
+  size: 156, 138
+  orig: 270, 270
+  offset: 60, 69
+  index: -1
+buttom_boom/sb_vfx_a_screen_29
+  rotate: true
+  xy: 1323, 11
+  size: 152, 125
+  orig: 270, 270
+  offset: 63, 76
+  index: -1
+buttom_boom/sb_vfx_a_screen_30
+  rotate: false
+  xy: 515, 2
+  size: 3, 3
+  orig: 270, 270
+  offset: 0, 267
+  index: -1
+sb_hover_a_add
+  rotate: true
+  xy: 1323, 165
+  size: 158, 164
+  orig: 158, 164
+  offset: 0, 0
+  index: -1
+sb_hover_b_add
+  rotate: true
+  xy: 1495, 351
+  size: 168, 169
+  orig: 168, 169
+  offset: 0, 0
+  index: -1
+sb_vfx_b_screen
+  rotate: false
+  xy: 515, 197
+  size: 322, 322
+  orig: 322, 322
+  offset: 0, 0
+  index: -1
+sb_vfx_c_screen
+  rotate: false
+  xy: 839, 267
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+wt_vfx_g_add
+  rotate: true
+  xy: 2, 4
+  size: 515, 511
+  orig: 515, 511
+  offset: 0, 0
+  index: -1

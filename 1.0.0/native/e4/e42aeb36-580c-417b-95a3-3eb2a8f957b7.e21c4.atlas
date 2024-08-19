@@ -1,0 +1,139 @@
+
+speed.jpg
+size: 1913,441
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+speed_line/fs_vfx_a_add_00
+  rotate: false
+  xy: 1510, 4
+  size: 99, 435
+  orig: 128, 445
+  offset: 28, 4
+  index: -1
+speed_line/fs_vfx_a_add_01
+  rotate: false
+  xy: 1611, 4
+  size: 99, 435
+  orig: 128, 445
+  offset: 28, 4
+  index: -1
+speed_line/fs_vfx_a_add_02
+  rotate: false
+  xy: 2, 2
+  size: 99, 437
+  orig: 128, 445
+  offset: 28, 4
+  index: -1
+speed_line/fs_vfx_a_add_03
+  rotate: false
+  xy: 103, 2
+  size: 99, 437
+  orig: 128, 445
+  offset: 28, 4
+  index: -1
+speed_line/fs_vfx_a_add_04
+  rotate: false
+  xy: 204, 2
+  size: 99, 437
+  orig: 128, 445
+  offset: 28, 4
+  index: -1
+speed_line/fs_vfx_a_add_05
+  rotate: false
+  xy: 305, 2
+  size: 99, 437
+  orig: 128, 445
+  offset: 28, 4
+  index: -1
+speed_line/fs_vfx_a_add_06
+  rotate: false
+  xy: 406, 2
+  size: 99, 437
+  orig: 128, 445
+  offset: 28, 4
+  index: -1
+speed_line/fs_vfx_a_add_07
+  rotate: false
+  xy: 507, 2
+  size: 99, 437
+  orig: 128, 445
+  offset: 28, 4
+  index: -1
+speed_line/fs_vfx_a_add_08
+  rotate: false
+  xy: 608, 2
+  size: 99, 437
+  orig: 128, 445
+  offset: 28, 4
+  index: -1
+speed_line/fs_vfx_a_add_09
+  rotate: false
+  xy: 810, 2
+  size: 98, 437
+  orig: 128, 445
+  offset: 29, 4
+  index: -1
+speed_line/fs_vfx_a_add_10
+  rotate: false
+  xy: 910, 2
+  size: 98, 437
+  orig: 128, 445
+  offset: 29, 4
+  index: -1
+speed_line/fs_vfx_a_add_11
+  rotate: false
+  xy: 1010, 2
+  size: 98, 437
+  orig: 128, 445
+  offset: 29, 4
+  index: -1
+speed_line/fs_vfx_a_add_12
+  rotate: false
+  xy: 1110, 2
+  size: 98, 437
+  orig: 128, 445
+  offset: 29, 4
+  index: -1
+speed_line/fs_vfx_a_add_13
+  rotate: false
+  xy: 1210, 2
+  size: 98, 437
+  orig: 128, 445
+  offset: 29, 4
+  index: -1
+speed_line/fs_vfx_a_add_14
+  rotate: false
+  xy: 1310, 2
+  size: 98, 437
+  orig: 128, 445
+  offset: 29, 4
+  index: -1
+speed_line/fs_vfx_a_add_15
+  rotate: false
+  xy: 1410, 2
+  size: 98, 437
+  orig: 128, 445
+  offset: 29, 4
+  index: -1
+speed_line/fs_vfx_a_add_16
+  rotate: false
+  xy: 1813, 4
+  size: 98, 435
+  orig: 128, 445
+  offset: 29, 4
+  index: -1
+speed_line/fs_vfx_a_add_17
+  rotate: false
+  xy: 1712, 4
+  size: 99, 435
+  orig: 128, 445
+  offset: 28, 4
+  index: -1
+speed_line/fs_vfx_a_add_18
+  rotate: false
+  xy: 709, 2
+  size: 99, 437
+  orig: 128, 445
+  offset: 28, 4
+  index: -1

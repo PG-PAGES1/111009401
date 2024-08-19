@@ -1,0 +1,146 @@
+
+multiple.jpg
+size: 1094,1094
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow/mtp_vfx_a_add_00
+  rotate: false
+  xy: 414, 899
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_01
+  rotate: false
+  xy: 687, 899
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_02
+  rotate: false
+  xy: 2, 704
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_03
+  rotate: false
+  xy: 275, 704
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_04
+  rotate: false
+  xy: 548, 704
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_05
+  rotate: false
+  xy: 821, 704
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_06
+  rotate: false
+  xy: 2, 509
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_07
+  rotate: false
+  xy: 275, 509
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_08
+  rotate: false
+  xy: 548, 509
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_09
+  rotate: false
+  xy: 821, 509
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_10
+  rotate: false
+  xy: 2, 314
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_11
+  rotate: false
+  xy: 275, 314
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_12
+  rotate: false
+  xy: 548, 314
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_13
+  rotate: false
+  xy: 821, 314
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_14
+  rotate: false
+  xy: 2, 119
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_15
+  rotate: false
+  xy: 275, 119
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_16
+  rotate: false
+  xy: 548, 119
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_17
+  rotate: false
+  xy: 821, 119
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+glow/mtp_vfx_a_add_18
+  rotate: false
+  xy: 141, 899
+  size: 271, 193
+  orig: 271, 193
+  offset: 0, 0
+  index: -1
+mtp_vfx_b_add
+  rotate: false
+  xy: 2, 1010
+  size: 137, 82
+  orig: 137, 82
+  offset: 0, 0
+  index: -1
